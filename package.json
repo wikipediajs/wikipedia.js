@@ -1,0 +1,22 @@
+{
+  "name": "wikipedia.js",
+  "version": "1.0.0",
+  "description": "A straightforward interface for the Wikipedia API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikipediajs/wikipediajs.git"
+  },
+  "keywords": [
+    "wikipedia"
+  ],
+  "author": "Elijah Conners <business@elijahpepe.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wikipediajs/wikipediajs/issues"
+  },
+  "homepage": "https://github.com/wikipediajs/wikipediajs#readme"
+}
